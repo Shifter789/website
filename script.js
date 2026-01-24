@@ -1,5 +1,3 @@
-<script>
-    function playAudio() {
-        document.getElementById("imgbox").classlitst.toggle("active"); 
-    }
-</script>
+function Start_Music() {        
+    alert("Hello, World!");    
+}
